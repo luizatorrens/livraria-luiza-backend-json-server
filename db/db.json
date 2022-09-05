@@ -1,0 +1,126 @@
+{
+  "categorias": [
+    {
+      "nome": "ROMANCE",
+      "id": 1
+    },
+    {
+      "nome": "Suspense",
+      "id": 2
+    },
+    {
+      "nome": "drama",
+      "id": 3
+    },
+    {
+      "nome": "aaaaa",
+      "id": 4
+    }
+  ],
+  "editoras": [
+    {
+      "nome": "OO",
+      "id": 1
+    },
+    {
+      "nome": "SEGUINTE",
+      "id": 2
+    },
+    {
+      "nome": "um",
+      "id": 3
+    },
+    {
+      "nome": "dois",
+      "id": 4
+    }
+  ],
+  "autors": [
+    {
+      "nome": "a",
+      "id": 1
+    },
+    {
+      "nome": "aa",
+      "id": 2
+    },
+    {
+      "nome": "joao",
+      "id": 3
+    },
+    {
+      "nome": "luiza",
+      "id": 4
+    },
+    {
+      "nome": "davi",
+      "id": 5
+    },
+    {
+      "nome": "aa",
+      "id": 6
+    },
+    {
+      "nome": "ss",
+      "id": 7
+    }
+  ],
+  "livros": [
+    {
+      "nome": "qwerqw",
+      "autorId": 1,
+      "categoriaId": 1,
+      "editoraId": 1,
+      "id": 1
+    },
+    {
+      "nome": "a culpa é das estrelas",
+      "autorId": 1,
+      "categoriaId": 1,
+      "editoraId": 1,
+      "id": 2
+    },
+    {
+      "nome": "lala",
+      "autorId": 2,
+      "categoriaId": 1,
+      "editoraId": 2,
+      "id": 3
+    },
+    {
+      "nome": "funciona?",
+      "autorId": 3,
+      "categoriaId": 1,
+      "editoraId": 2,
+      "id": 4
+    },
+    {
+      "nome": "sim",
+      "autorId": 2,
+      "categoriaId": 1,
+      "editoraId": 2,
+      "id": 5
+    },
+    {
+      "nome": "acho que sim",
+      "autorId": 5,
+      "categoriaId": 2,
+      "editoraId": 4,
+      "id": 6
+    },
+    {
+      "nome": "aaa",
+      "autorId": 3,
+      "categoriaId": 1,
+      "editoraId": 3,
+      "id": 7
+    },
+    {
+      "nome": "AAAAAAAAA",
+      "autorId": 5,
+      "categoriaId": 2,
+      "editoraId": 1,
+      "id": 8
+    }
+  ]
+}
